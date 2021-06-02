@@ -8,13 +8,13 @@ After you've revealed several letters, you may be able to guess what the answer 
 Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
 Solve the puzzle before the hangman dies.
 
-## MAIN LOGIC
+## MAIN LOGIC:
 1. Enter word.
 2. Check whether the word is valid or not.
 3. Guesswork.
 4. If main = word, then user win.
 
-## ALGORITHM
+## ALGORITHM:
 1. Develop the Interface
 2. Predefined List
 3. Instructions
