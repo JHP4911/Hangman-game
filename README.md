@@ -8,6 +8,22 @@ After you've revealed several letters, you may be able to guess what the answer 
 Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
 Solve the puzzle before the hangman dies.
 
+## MAIN LOGIC
+1. Enter word.
+2. Check whether the word is valid or not.
+3. Guesswork.
+4. If main = word, then user win.
+
+## ALGORITHM
+1. Develop the Interface
+2. Predefined List
+3. Instructions
+4. Check the words
+  * If right, then enter in empty list
+  * Else draw figure
+5. Reduce the turns
+6. Generate the figure
+
 ## SAMPLE OUTPUT - 1:
 ![output-1](https://user-images.githubusercontent.com/81489001/120498756-1b693300-c3dd-11eb-9785-c6d032aa848d.PNG)
 
