@@ -12,5 +12,5 @@ Solve the puzzle before the hangman dies.
 ![output-1](https://user-images.githubusercontent.com/81489001/120498756-1b693300-c3dd-11eb-9785-c6d032aa848d.PNG)
 
 ## SAMPLE OUTPUT - 2:
-![output-2 1](https://user-images.githubusercontent.com/81489001/120498820-27ed8b80-c3dd-11eb-81e5-c1707cce7411.PNG)
+![output-2 1](https://user-images.githubusercontent.com/81489001/120499767-f0cbaa00-c3dd-11eb-90e6-0f40dcec4f50.PNG)
 ![output-2 2](https://user-images.githubusercontent.com/81489001/120498838-2b811280-c3dd-11eb-99cb-763597504a4f.PNG)
